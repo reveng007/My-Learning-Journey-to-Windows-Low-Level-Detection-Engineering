@@ -37,6 +37,16 @@ Will Keep on Adding more!!!
 ## Malware Analysis and Windows Internals Blogs and Videos:
 1. Malware Analysis : [YT - Malware Evasion Techniques: API Unhooking + API Hashing](https://www.youtube.com/watch?v=mjF9LFIAgF8)
 2. More Blogs here: https://trainsec.net/library/
+3. PeStudio Overview: Setup, Tutorial and Tips: https://www.varonis.com/blog/pestudio
+4. How to Use Ghidra to Reverse Engineer Malware: http://varonis.com/blog/how-to-use-ghidra
+5. Common Types of Malware: https://www.varonis.com/blog/types-of-malware
+6. Usage of Sysinternal Tool: AutoRun : https://www.varonis.com/blog/how-to-use-autoruns
+7. Top 11 Malware Analysis Tools and Their Features: https://www.varonis.com/blog/malware-analysis-tools
+8. x64DBG 4 parts Tutorials:
+    - https://www.varonis.com/blog/how-to-use-x64dbg
+    - https://www.varonis.com/blog/x64dbg-unpack-malware
+    - https://www.varonis.com/blog/stack-memory-3
+    - https://www.varonis.com/blog/how-to-use-x64dbg-malware-analysis
 
 ## Credits:
 1. [@zodiacon](https://x.com/zodiacon)
