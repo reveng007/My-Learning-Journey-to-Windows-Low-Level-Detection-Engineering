@@ -38,5 +38,6 @@ Will Keep on Adding more!!!
 1. [@zodiacon](https://x.com/zodiacon)
 2. [@MalFuzzer](https://x.com/MalFuzzer)
 3. [@TrainSec](https://x.com/TrainSec)
-4. 
+4. [Yazid Benjamaa aka Xacone](https://www.linkedin.com/in/yazid-benjamaa/)
+5. [0xfluxsec](https://x.com/0xfluxsec)
 
