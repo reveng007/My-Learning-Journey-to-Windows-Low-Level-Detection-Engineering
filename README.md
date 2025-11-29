@@ -25,8 +25,18 @@ I will be posting most of my learning on Windows Low Level detection Engineering
 
 20. [EDR Internals: Research & Development]() - From [EDR Internals – Research & Development](https://trainsec.net/courses/edr-internals-research-development/)
 
+21. [HTB: Windows Kernel Telemetry & Detection Techniques]() From [](https://academy.hackthebox.com/module/details/303) - Will Soon Share my Notes...
+22. [HTB: Windows Low Level Detectability]() From [](https://academy.hackthebox.com/module/details/311)
+
+## Open Source Projects:
+1. [Sanctum](https://github.com/0xflux/Sanctum) by [0xfluxsec](https://x.com/0xfluxsec) and his [Blogs](https://fluxsec.red/)
+2. [BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket) by [Yazid Benjamaa aka Xacone](https://www.linkedin.com/in/yazid-benjamaa/) and his [Blogs](https://xacone.github.io/)
+
+Will Keep on Adding more!!!
+
 ## Credits:
 1. [@zodiacon](https://x.com/zodiacon)
 2. [@MalFuzzer](https://x.com/MalFuzzer)
 3. [@TrainSec](https://x.com/TrainSec)
+4. 
 
