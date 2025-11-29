@@ -34,6 +34,10 @@ I will be posting most of my learning on Windows Low Level detection Engineering
 
 Will Keep on Adding more!!!
 
+## Malware Analysis Blogs and Videos:
+1. Malware Analysis : [YT - Malware Evasion Techniques: API Unhooking + API Hashing](https://www.youtube.com/watch?v=mjF9LFIAgF8)
+
+
 ## Credits:
 1. [@zodiacon](https://x.com/zodiacon)
 2. [@MalFuzzer](https://x.com/MalFuzzer)
