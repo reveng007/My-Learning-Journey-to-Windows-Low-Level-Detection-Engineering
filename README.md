@@ -3,7 +3,7 @@ I will be posting most of my learning on Windows Low Level detection Engineering
 
 ## [Windows Security Researcher](https://trainsec.net/windows-security-researcher/) Path:
 
-1. [Malware Analyst Professional - Level 1]()
+1. [Malware Analyst Professional - Level 1](https://github.com/reveng007/My-Learning-Journey-to-Windows-Low-Level-Detection-Engineering/tree/main/1.Malware%20Analyst%20Professional%20-%20Level%201%20TrainSec)
 2. [Malware Analyst Professional - Level 2]()
 3. [Mastering WinDbg]()
 4. [Windows Internals: Day 1]()
