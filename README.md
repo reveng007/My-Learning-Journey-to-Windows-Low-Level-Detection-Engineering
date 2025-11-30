@@ -35,7 +35,10 @@ I will be posting most of my learning on Windows Low Level detection Engineering
 Will Keep on Adding more!!!
 
 ## Malware Analysis and Windows Internals Blogs and Videos:
-1. Malware Analysis : [YT - Malware Evasion Techniques: API Unhooking + API Hashing](https://www.youtube.com/watch?v=mjF9LFIAgF8)
+1. Malware Analysis : 
+    - [YT - Malware Evasion Techniques: API Unhooking + API Hashing](https://www.youtube.com/watch?v=mjF9LFIAgF8)
+    - [YT - How to Analyse Hashed API Functions with x64dbg](https://www.youtube.com/watch?v=6dM2fn7nk7c)
+    - [YT - Malware Analysis](https://www.youtube.com/@0xf0x/videos)
 2. More Blogs here: https://trainsec.net/library/
 3. PeStudio Overview: Setup, Tutorial and Tips: https://www.varonis.com/blog/pestudio
 4. How to Use Ghidra to Reverse Engineer Malware: http://varonis.com/blog/how-to-use-ghidra
