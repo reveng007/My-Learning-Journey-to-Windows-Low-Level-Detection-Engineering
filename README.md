@@ -51,6 +51,14 @@ Will Keep on Adding more!!!
     - https://www.varonis.com/blog/stack-memory-3
     - https://www.varonis.com/blog/how-to-use-x64dbg-malware-analysis
 
+## Ransomware Detection
+1. The Proof is in the Pudding: EDR Configuration Versus Ransomware: https://www.sans.edu/cyber-research/proof-pudding-edr-configuration-versus-ransomware/
+2. https://github.com/elastic/protections-artifacts/blob/main/ransomware/artifact.lua
+3. RansomGuard : an anti-ransomware filter driver: https://0mwindybug.github.io/RansomGuard/ (https://github.com/0mWindyBug/RansomGuard)
+4. Detecting LockBit: https://x.com/matterpreter/status/1976265149435580642
+5. OnlyMalware: Windows Ransomware Detection: https://www.youtube.com/watch?v=5t67BFcC-MQ (pdf: )
+6. https://github.com/rad9800/RansomFS
+
 ## Credits:
 1. [@zodiacon](https://x.com/zodiacon)
 2. [@MalFuzzer](https://x.com/MalFuzzer)
