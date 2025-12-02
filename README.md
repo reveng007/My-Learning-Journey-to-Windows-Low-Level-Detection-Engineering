@@ -51,7 +51,7 @@ Will Keep on Adding more!!!
     - https://www.varonis.com/blog/stack-memory-3
     - https://www.varonis.com/blog/how-to-use-x64dbg-malware-analysis
 
-## Ransomware Detection
+## Ransomware Detection Resources:
 1. The Proof is in the Pudding: EDR Configuration Versus Ransomware: https://www.sans.edu/cyber-research/proof-pudding-edr-configuration-versus-ransomware/
 2. https://github.com/elastic/protections-artifacts/blob/main/ransomware/artifact.lua
 3. RansomGuard : an anti-ransomware filter driver: https://0mwindybug.github.io/RansomGuard/ (https://github.com/0mWindyBug/RansomGuard)
