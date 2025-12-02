@@ -58,6 +58,7 @@ Will Keep on Adding more!!!
 4. Detecting LockBit: https://x.com/matterpreter/status/1976265149435580642
 5. OnlyMalware: Windows Ransomware Detection: https://www.youtube.com/watch?v=5t67BFcC-MQ (pdf: https://github.com/reveng007/My-Learning-Journey-to-Windows-Low-Level-Detection-Engineering/blob/main/MISC/windows-ransomware-detection.pdf)
 6. https://github.com/rad9800/RansomFS
+7. Detecting & Hunting Ransomware Operator Tools: It Is Easier Than You Think!: https://www.youtube.com/watch?v=oMAvSpq9fYY
 
 
 ## Credits:
