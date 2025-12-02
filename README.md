@@ -56,8 +56,9 @@ Will Keep on Adding more!!!
 2. https://github.com/elastic/protections-artifacts/blob/main/ransomware/artifact.lua
 3. RansomGuard : an anti-ransomware filter driver: https://0mwindybug.github.io/RansomGuard/ (https://github.com/0mWindyBug/RansomGuard)
 4. Detecting LockBit: https://x.com/matterpreter/status/1976265149435580642
-5. OnlyMalware: Windows Ransomware Detection: https://www.youtube.com/watch?v=5t67BFcC-MQ (pdf: )
+5. OnlyMalware: Windows Ransomware Detection: https://www.youtube.com/watch?v=5t67BFcC-MQ (pdf: https://github.com/reveng007/My-Learning-Journey-to-Windows-Low-Level-Detection-Engineering/blob/main/MISC/windows-ransomware-detection.pdf)
 6. https://github.com/rad9800/RansomFS
+
 
 ## Credits:
 1. [@zodiacon](https://x.com/zodiacon)
@@ -65,4 +66,5 @@ Will Keep on Adding more!!!
 3. [@TrainSec](https://x.com/TrainSec)
 4. [Yazid Benjamaa aka Xacone](https://www.linkedin.com/in/yazid-benjamaa/)
 5. [0xfluxsec](https://x.com/0xfluxsec)
+6. [@rad9800](https://x.com/rad9800)
 
