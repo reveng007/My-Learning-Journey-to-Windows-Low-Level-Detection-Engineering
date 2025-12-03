@@ -60,6 +60,7 @@ I will be posting most of my learning on Windows Low Level detection Engineering
 
 ## Filter Driver OverView:
 1. [YT : Cobalt Strike BOF: enum_filter_driver](https://www.youtube.com/watch?v=MvRY0qS8XFk)
+2. [How a driver uses an altitude number](https://learn.microsoft.com/en-us/windows-hardware/drivers/ifs/allocated-altitudes)
 
 Will Keep on Adding more!!!
 
