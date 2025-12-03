@@ -64,6 +64,8 @@ I will be posting most of my learning on Windows Low Level detection Engineering
 
 ## My Kernel Debugging setup for windows 11 VM:
 1. Blog: https://trainsec.net/library/windows-internals/kernel-debugging-windows-vms-a-practical-walk-through/
+    - Run Windbg is admin.
+    - Use target machine ip address in windbg while attaching to target VM, else not working for me, atleast.
 2. To turn off Secure Boot in VirtualBox: https://medium.com/@ahmadshamius2/setting-up-windows-vms-for-debugging-61d3d53b130d
 
 Will Keep on Adding more!!!
