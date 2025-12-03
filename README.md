@@ -62,6 +62,10 @@ I will be posting most of my learning on Windows Low Level detection Engineering
 1. [YT : Cobalt Strike BOF: enum_filter_driver](https://www.youtube.com/watch?v=MvRY0qS8XFk)
 2. [How a driver uses an altitude number](https://learn.microsoft.com/en-us/windows-hardware/drivers/ifs/allocated-altitudes)
 
+## My Kernel Debugging setup for windows 11 VM:
+1. Blog: https://trainsec.net/library/windows-internals/kernel-debugging-windows-vms-a-practical-walk-through/
+2. To turn off Secure Boot in VirtualBox: https://medium.com/@ahmadshamius2/setting-up-windows-vms-for-debugging-61d3d53b130d
+
 Will Keep on Adding more!!!
 
 ## Credits:
