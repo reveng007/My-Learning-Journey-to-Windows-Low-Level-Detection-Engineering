@@ -32,8 +32,6 @@ I will be posting most of my learning on Windows Low Level detection Engineering
 1. [Sanctum](https://github.com/0xflux/Sanctum) by [0xfluxsec](https://x.com/0xfluxsec) and his [Blogs](https://fluxsec.red/)
 2. [BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket) by [Yazid Benjamaa aka Xacone](https://www.linkedin.com/in/yazid-benjamaa/) and his [Blogs](https://xacone.github.io/)
 
-Will Keep on Adding more!!!
-
 ## Malware Analysis and Windows Internals Blogs and Videos:
 1. Malware Analysis : 
     - [YT - Malware Evasion Techniques: API Unhooking + API Hashing](https://www.youtube.com/watch?v=mjF9LFIAgF8)
@@ -60,6 +58,10 @@ Will Keep on Adding more!!!
 6. https://github.com/rad9800/RansomFS
 7. Detecting & Hunting Ransomware Operator Tools: It Is Easier Than You Think!: https://www.youtube.com/watch?v=oMAvSpq9fYY
 
+## Filter Driver OverView:
+1. [YT : Cobalt Strike BOF: enum_filter_driver](https://www.youtube.com/watch?v=MvRY0qS8XFk)
+
+Will Keep on Adding more!!!
 
 ## Credits:
 1. [@zodiacon](https://x.com/zodiacon)
